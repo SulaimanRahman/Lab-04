@@ -1,0 +1,1 @@
+The purpose of this program is to act as one of the philosopher in the dining philosophers problem. when you run this program along with providing the number of seats and philosopher position. The philosopher eats, and wait for 0.5 - 3 sec and then repeats the cycles, until TERM signal is recieved. 
